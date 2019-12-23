@@ -1,3 +1,2 @@
 git is a distribute version control system.
-l
-
+git is free software distributed under the GPL.
